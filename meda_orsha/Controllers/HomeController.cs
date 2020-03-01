@@ -22,7 +22,7 @@ namespace meda_orsha.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "meda_orsha_acer";
+            ViewBag.Message = "meda_orsha_acer_hp";
 
             return View();
         }
